@@ -100,3 +100,4 @@ github-product-site/
 - **Framer Motion** - 动画库
 - **Lucide React** - 图标库
 
+# GitHub Pages部署更新
