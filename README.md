@@ -1,4 +1,4 @@
-# GitHub Product Site
+# GitHub Product Site - Manus
 
 这是一个使用React + Vite + Tailwind CSS构建的产品展示网站，已配置为可以部署到GitHub Pages。
 
